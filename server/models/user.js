@@ -56,6 +56,8 @@ UserSchema.methods.gravatar = function(size) {
 
 }
 
+//test
+
 //'User'--name of the model used
 module.exports = mongoose.model('User', UserSchema);
 
